@@ -6,7 +6,7 @@ outra para a quantidade de XP dele
 let nomeHeroi = "Super Homem";
 let xp = "7000";
 
-if (xp > 10001) {
+if (xp >= 10001) {
     xp = "Radiante";
 } else if (xp > 9001 && xp <= 10000) {
     xp = "Imortal";
