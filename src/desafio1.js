@@ -1,5 +1,5 @@
 /* 
-criar uma variavel para o nome do hério e 
+criar uma variavel para o nome do herói e 
 outra para a quantidade de XP dele 
 */
 
